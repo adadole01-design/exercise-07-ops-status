@@ -1,0 +1,3 @@
+• *Overdue tasks* (as of 2026-01-16): Task 1 (due 2026-01-15); Task 2 (due 2026-01-10)
+• *Missing acceptance evidence:* Task 2 (due 2026-01-10)
+• *Owner follow-ups:* Task 1 (due 2026-01-15) — Technical lead InspectOS: confirm current status and expected completion date; Task 2 (due 2026-01-10) — HR Lead: confirm current status and expected completion date and provide the acceptance evidence or confirm where to find it

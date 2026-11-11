@@ -1,0 +1,4 @@
+task_id,title,user,output,acceptance_evidence,sprint,due_date,status,venture_domain_owner,editorial_owner,programme_owner
+1,[Engineering & Tech] - Build enrich-clay-table skill,Trainee X - IST - Engineering & Tech,.claude/skills/enrich-clay-table/ SKILL.md + skill.py + evals,GitHub repo link + Commit hash + Loom,Week 2,2026-01-15,In Progress,Technical lead InspectOS,Editorial Owner,Programme Owner
+2,[People & Culture] - Build generate-onboarding-plan,Trainee Y - Católica - People & Culture,.claude/skills/generate-onboarding-plan/ SKILL.md + skill.py,Missing acceptance evidence,Week 2,2026-01-10,Overdue,HR Lead,Editorial Owner,Programme Owner
+3,[Growth & Marketing] - Build growth loop Artifacts + Clay,Trainee Z - NOVA SBE - Growth & Marketing,.claude/skills/growth-loop/ SKILL.md,GitHub repo link + Loom,Week 3,2026-01-20,In Progress,Growth Lead RealOS,Editorial Owner,Programme Owner

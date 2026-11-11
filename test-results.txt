@@ -1,0 +1,12 @@
+test_broken_csv (test_report.ReportTests.test_broken_csv) ... ok
+test_check_date_override_and_invalid_date (test_report.ReportTests.test_check_date_override_and_invalid_date) ... ok
+test_empty_table (test_report.ReportTests.test_empty_table) ... ok
+test_malformed_inputs (test_report.ReportTests.test_malformed_inputs) ... ok
+test_no_overdue_with_evidence_followup (test_report.ReportTests.test_no_overdue_with_evidence_followup) ... ok
+test_supplied_boundaries (test_report.ReportTests.test_supplied_boundaries) ... ok
+test_supplied_sprint_report (test_report.ReportTests.test_supplied_sprint_report) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.358s
+
+OK
